@@ -1,1 +1,1 @@
-# Another-RPN-Calculator
+# Another RPN Calculator
